@@ -1,0 +1,5 @@
+numero = int(input('DIGITE O NUMERO: '))
+if numero > 0:
+    print('NUMERO POSITIVO: -')
+elif numero < 0:
+    print('NUMERO NEGATIVO: ')
