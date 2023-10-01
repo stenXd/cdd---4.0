@@ -1,0 +1,10 @@
+soma = 0
+contagem = 4
+
+for x in range(contagem):
+    numero = float(input(f"Digite o {x+1} numero :"))
+    soma += numero
+
+media = soma / contagem
+print(f"A SOMA DOS NUMEROS É {soma}")
+print(f"A media DOS NUMEROS É {media}")
