@@ -1,0 +1,3 @@
+numero = int(input('DIGITE UM NUMERO'))
+antecessor = numero - 1
+print('Seu numero digitado foi {} e o seu antecessor é {}'.format(numero,antecessor))
