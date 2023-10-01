@@ -1,0 +1,4 @@
+base = float(input('Digite o valor base'))
+altura = float(input('Digite o valor da altura'))
+area_do_triangulo = (base * altura) / 2
+print(area_do_triangulo)
